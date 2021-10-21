@@ -1,2 +1,3 @@
 types of numbers
 1. natural numbers
+2.whole numbers
